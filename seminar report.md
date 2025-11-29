@@ -65,7 +65,7 @@
 |    |                                                        | **7** |
 +----+--------------------------------------------------------+-------+
 
-> **CHAPTER 1 INTRODUCTION**
+## **CHAPTER 1 INTRODUCTION**
 
 ### 1.1 Introduction
 
@@ -161,9 +161,7 @@ AI-Powered Deepfake Forensics has become critically important for several interc
 
 -   **Technological Arms Race**: As generative models continuously improve, forensic detection must evolve in parallel to maintain effectiveness. This co-evolution drives innovation in both security and AI research domains.
 
-# CHAPTER 2
-
-> **BACKGROUND AND LITERATURE REVIEW**
+# CHAPTER 2  **BACKGROUND AND LITERATURE REVIEW**
 
 ### 2.1 Understanding Deepfakes and Their Underlying Architecture
 
