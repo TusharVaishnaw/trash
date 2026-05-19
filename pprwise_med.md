@@ -107,6 +107,22 @@
 
 - Difference between heart attack and myocardial infarction. [2021, Paper-I, Q.2.4]
 
+### 12 Marks (Short Notes)
+
+- Describe the etiology, diagnostic criteria, clinical features and management of infective endocarditis. [2023, Paper-I, Q.1.1]
+
+- What are clinical features of infective endocarditis. Enumerate investigations which are important for diagnosis. [2021, Paper-I, Q.1.3]
+
+### 10 Marks (Answer in Brief)
+
+- Peripheral signs of aortic regurgitation. [2023, Paper-I, Q.2.2]
+
+- Describe prevention of acute rheumatic fever. [2023, Paper-I, Q.2.3]
+
+- Define malignant hypertension and its treatment. [2023, Paper-I, Q.2.4]
+
+- Describe etiology and management of primary pulmonary hypertension. [2023, Paper-I, Q.2.6]
+
 ---
 
 ## CHAPTER 2: RESPIRATORY SYSTEM
@@ -184,6 +200,18 @@
 - Broncho alveolar Lavage. [2021, Paper-I, Q.2.5]
 
 - Common hospital acquired infections and its Prevention. [2019, Paper-I, Q.2.1]
+
+### 12 Marks (Short Notes)
+
+- Write clinical features, complications and management of pleural effusion. [2023, Paper-I, Q.1.2]
+
+- Describe management of acute respiratory distress syndrome (ARDS). [2023, Paper-I, Q.1.3]
+
+### 10 Marks (Answer in Brief)
+
+- Etiology and treatment of community acquired pneumonia. [2023, Paper-I, Q.2.1]
+
+- Drugs for bronchial asthma. [2023, Paper-I, Q.2.5]
 
 ---
 
@@ -264,6 +292,12 @@
 - Genetic abnormalities in Klinefelter syndrome. [2019, Paper-I, Q.3.6]
 
 - Which genetic test is done in Ankylosing Spondylitis? [2019, Paper-I, Q.3.7]
+
+### 12 Marks (Short Notes)
+
+- Define seizure, Write down classification and their clinical feature and approach to a patient of seizure? [2023, Paper-II, Q.1.2]
+
+- Basic life support (BLS). [2023, Paper-I, Q.1.4]
 
 ---
 
@@ -417,6 +451,10 @@
 
 - CREST Syndrome. [2023, Paper-II, Q.6.2]
 
+### 10 Marks (Short Notes)
+
+- Systemic lupus Erythematosus. [2022, Paper-II, Q_II_3.2]
+
 ---
 
 ## CHAPTER 7: GASTROINTESTINAL SYSTEM
@@ -539,6 +577,14 @@
 
 - Antiviral medicine for Covid-19. [2022, Paper-II, Q.3.3]
 
+### 12 Marks (Short Notes)
+
+- Management of severe dengue. [2023, Paper-I, Q.4.3]
+
+### 2 Marks (Reasoning / Short Answer)
+
+- Difference between tetanus and tetany. [2021, Paper-II, Q.2.6]
+
 ---
 
 ## CHAPTER 9: ENDOCRINOLOGY
@@ -610,6 +656,8 @@
 - Enumerate clinical features of Hypocalcemia. [2019, Paper-II, Q.3.7]
 
 - Describe management of electric shock. [2021, Paper-I, Q.5.4]
+
+- Features of Turner's Syndrome. [2021, Paper-I, Q.6.8]
 
 ---
 
